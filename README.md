@@ -9,6 +9,9 @@ https://www.happyhacks.app/
 
 ## サービス紹介
 
+### スマホ操作UI (ユーザーはスマホ利用を想定しているため)
+https://github.com/tak-eru/happyhacks/assets/95963718/ce0ec789-ba7d-49ad-beea-3105bd922d9d
+
 ### 意識した点
 #### UX / パフォーマンス
 - 「いいね」や「ブックマーク」のボタンをマイクロインタラクションとして実装する。
