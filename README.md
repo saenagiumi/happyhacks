@@ -87,7 +87,7 @@ https://github.com/tak-eru/happyhacks/assets/95963718/ce0ec789-ba7d-49ad-beea-31
 - annotate
 
 ### インフラ
-- AWS (ECS / Fargate ECR ALB RDS(PostgreSQL) CloudWatch S3 Route53 Certificate Manager VPC)
+- AWS (ECS / Fargate ECR ALB RDS(PostgreSQL) CloudWatch S3 Route53 SSM VPC)
 
 ### 外部サービス、その他
 - Auth0
