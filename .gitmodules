@@ -1,3 +1,6 @@
 [submodule "happyhacks_frontend"]
 	path = happyhacks_frontend
 	url = https://github.com/tak-eru/happyhacks_frontend.git
+[submodule "happyhacks_backend"]
+	path = happyhacks_backend
+	url = https://github.com/tak-eru/happyhacks_backend.git
